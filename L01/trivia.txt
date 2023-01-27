@@ -10,8 +10,6 @@ Additionally, Linux permits more flexibility and freedom in terms of software in
 
 While Linux can vary widely depending on the distribution and desktop environment utilised, MacOS typically offers a more streamlined and sophisticated appearance and feel.
 
-The decision between the two operating systems frequently comes down to personal preference and particular use cases because each operating system has merits and disadvantages of its own.
-
 A2 = 
 
 There were 3 sign boards in total. Two in spell casting academy and One in Cave
