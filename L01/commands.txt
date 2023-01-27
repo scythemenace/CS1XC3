@@ -1,0 +1,14 @@
+mkdir = Makes a new directory or subdirectory
+pwd =  Display the file path of your parent working directory
+cd or cd~ = This command returns immediately to the home directory
+man = It shows the instructions for any command we can enter into the terminal
+cp [Item to copy] ../[New_item_name]
+less = Print out a file's contents
+sudo = allows you to temporarily grant root access to your current user account
+help = to give further details about another command.
+ls = displays a list of your current directory's contents.
+rm = removes the folders and files.
+add[LOCKERNAME]=It increases the number of rooms in your house.
+mv = renames a file or directory, or moves files and directories from one directory to another.
+touch = utilised to generate and alter files.
+grep = matching and searching for text in the files
