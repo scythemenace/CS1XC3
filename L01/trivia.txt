@@ -1,4 +1,6 @@
-A1 = Personally, I am a MacOS user and these are the differences I felt were the most noticeable to me.
+A1 = 
+
+Personally, I am a MacOS user and these are the differences I felt were the most noticeable to me.
 
 One significant distinction is that although Linux is open-source software created and maintained by a community of developers, MacOS is proprietary software created and owned by Apple. This means that while the source code for Linux is open to everyone, it is more difficult to alter the source code for MacOS.
 
@@ -10,4 +12,6 @@ While Linux can vary widely depending on the distribution and desktop environmen
 
 The decision between the two operating systems frequently comes down to personal preference and particular use cases because each operating system has merits and disadvantages of its own.
 
-A2 = There were 3 sign boards in total. Two in spell casting academy and One in Cave
+A2 = 
+
+There were 3 sign boards in total. Two in spell casting academy and One in Cave
