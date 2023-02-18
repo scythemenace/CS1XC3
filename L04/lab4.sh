@@ -1,8 +1,9 @@
 #!/bin/bash
-# Use First Argument As Working Directory
-WDIR="$(pwd)"
-cd "$WDIR"
 
+# Use First Argument As Working Directory
+WDIR="$1"
+cd "$WDIR"
+filename="file1.txt"
 if [ $# -eq 3 ] ; then
 
         if [ "$2" -eq 1 ] ; then
