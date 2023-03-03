@@ -1,0 +1,15 @@
+num,linear(0),binary(1),fibonacci(2),notes(3)
+1,2396,2356,2420,binary is the minimum in this case
+4,2420,2428,2304,fibonacci is the minimum in this case
+22,2320,2264,2316,binary is the minimum in this case
+37,2308,2424,2400,linear is the minimum in this case
+22906,2416,2532,2316,fibonacci is the minimum in this case
+53757,2412,2316,2400,binary is the minimum in this case
+112591,2264,2304,2416,linear is the minimum in this case
+361940,2424,2344,2320,fibonacci is the minimum in this case
+475713,2408,2356,2320,fibonacci is the minimum in this case
+893766,2428,2420,2416,fibonacci is the minimum in this case
+996637,2420,2320,2372,binary is the minimum in this case
+996639,2316,2352,2320,linear is the minimum in this case
+996652,2344,2320,2352,binary is the minimum in this case
+-996652,2424,2404,2372,fibonacci is the minimum in this case

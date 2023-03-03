@@ -1,0 +1,15 @@
+Q1: Why are all the reported times zero?
+
+Ans: The reported times are zero because the program was not run long enough for gprof to collect enough data to accurately measure the running time of the functions.
+The gprof tool works by sampling the program's execution at regular intervals to collect information about which functions are being called and how much time is being spent in each function.
+If the program runs for a very short amount of time, there may not be enough samples collected for gprof to accurately measure the function's running time.
+
+
+Q2 Why is factors_itr only called once every time the program is run?
+Ans obvious because iteration is called once recursion is called multiple times
+
+Q3: Is there an obvious mathematical relationship between the input number and the number of recursive calls? What about the number of prime factors each number produces?
+
+Ans Yes, there is an obvious mathematical relationship between the input number and the number of recursive calls.
+The factors_rec function calls itself recursively to calculate the factors of a given number, and the number of recursive calls it makes is proportional to the number of prime factors of the given number.
+In particular, if the given number has n prime factors, then the factors_rec function will make 2^n - 2 recursive calls.

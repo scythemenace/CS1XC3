@@ -1,0 +1,11 @@
+Q1 How are the iterative and recursive algorithms similar and different for the same test cases?
+Which has more repetition?
+Ans The iterative and recursive algorithms for calculating factors are similar in that they both produce the same output for the same input number.
+However, they differ in their implementation: the iterative algorithm calculates factors using loops and division, 
+while the recursive algorithm calculates factors using recursion and a list of prime factors.
+Q2 What is the most executed line in the iterative and recursive algorithms? Are they the same?
+Ans The function call is ran the most in recursive algorithms and in the iterative algorithms the iterative loop is ran the most times.
+Q3 Are there any parts of the code which are not exercised?
+Ans  printarray is never used.
+Q4  If we were to try to optimize either function, where would be a good place to start?
+Ans  good place to start would be caching 
