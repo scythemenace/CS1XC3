@@ -1,5 +1,5 @@
 #!/bin/bash
-if [ -z "$1"]; then
+if [ -z "$1" ]; then
     echo "pls provide a file path"
     exit 1
 fi
