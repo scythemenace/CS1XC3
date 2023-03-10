@@ -20,3 +20,5 @@ PS1='\u:\h:\W & '
 cd /home/pandea23/CS1XC3
 git pull
 cd ~
+PATH="$PATH:/home/pandea23/CS1XC3/L06/part3"
+cd
