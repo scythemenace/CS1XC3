@@ -4,3 +4,6 @@
 [submodule "L07/1XC3_L07"]
 	path = L07/1XC3_L07
 	url = git@github.com:scythemenace/1XC3_L07.git
+[submodule "L08/github_actions"]
+	path = L08/github_actions
+	url = git@github.com:scythemenace/github_actions.git
