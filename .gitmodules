@@ -7,3 +7,6 @@
 [submodule "L08/github_actions"]
 	path = L08/github_actions
 	url = git@github.com:scythemenace/github_actions.git
+[submodule "L08/cont_integration"]
+	path = L08/cont_integration
+	url = git@github.com:scythemenace/cont_integration.git
