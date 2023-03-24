@@ -10,3 +10,6 @@
 [submodule "L08/cont_integration"]
 	path = L08/cont_integration
 	url = git@github.com:scythemenace/cont_integration.git
+[submodule "L08/CS1XC3_L08_P3"]
+	path = L08/CS1XC3_L08_P3
+	url = git@github.com:scythemenace/CS1XC3_L08_P3.git
