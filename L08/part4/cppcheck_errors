@@ -1,0 +1,41 @@
+worst.c:15:3: style: Incrementing a variable of type 'bool' with postfix operator++ is deprecated by the C++ Standard. You should assign it the value 'true' instead. [incrementboolean]
+  b++;
+  ^
+worst.c:10:23: error: Array 'arr[5]' accessed at index 5, which is out of bounds. [arrayIndexOutOfBounds]
+    printf("%d\n", arr[i]);
+                      ^
+worst.c:19:9: style: Condition 'x>5' is always true [knownConditionTrueFalse]
+  if (x > 5) {
+        ^
+worst.c:18:11: note: Assignment 'x=10', assigned value is 10
+  int x = 10;
+          ^
+worst.c:19:9: note: Condition 'x>5' is always true
+  if (x > 5) {
+        ^
+worst.c:22:14: style: Condition 'x>8' is always false [knownConditionTrueFalse]
+  else if (x > 8) {
+             ^
+worst.c:19:9: note: Assuming that condition 'x>5' is not redundant
+  if (x > 5) {
+        ^
+worst.c:22:14: note: Condition 'x>8' is always false
+  else if (x > 8) {
+             ^
+worst.c:28:14: error: Division by zero. [zerodiv]
+  int z = 10 / y;
+             ^
+worst.c:27:11: note: Assignment 'y=0', assigned value is 0
+  int y = 0;
+          ^
+worst.c:28:14: note: Division by zero
+  int z = 10 / y;
+             ^
+worst.c:15:4: style: Variable 'b' is assigned a value that is never used. [unreadVariable]
+  b++;
+   ^
+worst.c:28:9: style: Variable 'z' is assigned a value that is never used. [unreadVariable]
+  int z = 10 / y;
+        ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+
