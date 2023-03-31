@@ -89,21 +89,21 @@ Table of Contents</h1>
 </ul>
 <h1><a class="anchor" id="autotoc_md2"></a>
 Description</h1>
-<p>This software package is designed for CS1XC3 Lab09, aiming to provide users with a set of tools and functionalities related to Markdown, LaTeX, and Makefile management. The package demonstrates the usage of these tools for effective documentation and software management.</p>
+<p>Developed for CS1XC3 Lab_09, this software package aims to provide users with a set of tools and functions for managing Markdown, LaTeX and Makefiles. This package shows how to use these tools for effective documentation and software management.</p>
 <h1><a class="anchor" id="autotoc_md3"></a>
 Installation Instructions</h1>
 <p>To install the software package, follow these steps:</p>
 <ol type="1">
 <li>Bare clone the repository to your local machine: <code>git clone --bare git://github.com/username/repo.git</code></li>
-<li>Navigate to the bare repository directory: <code>cd repo.git</code> (Replace <code>&lt;REPO_NAME&gt;</code> with the actual repository name)</li>
-<li>Create a new remote repository on a platform like GitHub or GitLab, and make sure it is empty (i.e., do not initialize it with a README or .gitignore file).</li>
-<li>Push the local bare repository to the new remote repository: <code>git push --mirror &lt;REMOTE_URL&gt;</code></li>
-<li>Remove the local bare repository: <code>cd .. &amp;&amp; rm -rf repo.git</code></li>
+<li>Navigate to the bare cloned repository: <code>cd repo.git</code> (Replace <code>&lt;REPO_NAME&gt;</code> with the actual repository name)</li>
+<li>Create a new remote repository on GitHub or GitLab etc. and make sure it is empty (i.e., do not initialize it with a README or .gitignore file).</li>
+<li>Push the bare cloned repository to the new remote repository: <code>git push --mirror &lt;REMOTE_URL&gt;</code></li>
+<li>Remove the local bare cloned repository: <code>cd .. &amp;&amp; rm -rf repo.git</code></li>
 <li>Clone the new repository to your local machine: <code>git clone &lt;REMOTE_URL&gt;</code></li>
 </ol>
 <h1><a class="anchor" id="autotoc_md4"></a>
 ⚙️ Configuration Instructions</h1>
-<p>To configure the software, ensure that you have the following prerequisites installed on your system:</p>
+<p>Make sure your system has the necessary components installed before configuring the software:</p>
 <ul>
 <li>LaTeX</li>
 <li>Doxygen</li>
@@ -112,28 +112,29 @@ Installation Instructions</h1>
 <h1><a class="anchor" id="autotoc_md5"></a>
 Operating Instructions</h1>
 <ol type="1">
-<li>Follow the installation and configuration instructions.</li>
-<li>Run the Makefile to compile files, create directories, and generate documentation using Doxygen: <code>make Doxyfile</code></li>
-<li>This will generate a Doxyfile in the root directory of the project.</li>
-<li>Then make the desired changes to the Doxyfile.</li>
-<li>Run the Makefile again to generate the documentation: <code>make all</code></li>
-<li>This will create two directories documentation and build.</li>
+<li>Comply with the setup and setting guidelines.</li>
+<li>Execute the make Doxyfile command to compile files, establish directories, and produce documentation using Doxygen: <code>make Doxyfile</code></li>
+<li>This will create a Doxyfile in the project's root directory.</li>
+<li>After that, modify the Doxyfile as needed.</li>
+<li>Use 'make all' to create the documentation by running the Makefile once more: <code>make all</code></li>
+<li>This will produce the documentation and build files.</li>
 <li>The documentation directory will contain the generated documentation in the form of HTML files and the build will the contain the source files.</li>
-<li>To view the generated documentation, open the 'index.html' file in the 'html' folder under the 'doc' directory.</li>
-<li>Then run the program: <code>./Build/main</code></li>
-<li>The program will automatically generate a course named "Basics of Mathematics" (MATH101) and enroll 20 random students in the course.</li>
-<li>The program will then print the course information, followed by the top student and the list of passing students.</li>
+<li>Open the "index.html" file in the "html" folder under the "doc" directory to examine the generated documentation.</li>
+<li>Execute the following program: <code>./Build/main</code></li>
+<li>The program will instantly create the course "Basics of Mathematics" (MATH101) and sign up 20 randomly selected students for it.</li>
+<li>The program prints the course information, followed by the top student and the list of passing students.</li>
 </ol>
 <h1><a class="anchor" id="autotoc_md6"></a>
 Troubleshooting</h1>
-<p>If you encounter issues during the installation or operation of the software, please check the following:</p>
+<p>If you experience problems with the software's download or use, please double-check the following:</p>
+<p>If you experience problems with the software's download or use, please double-check the following:</p>
 <ol type="1">
-<li>Ensure that all prerequisites are properly installed.</li>
-<li>Check that the repository is cloned correctly and you are in the correct directory.</li>
-<li>Make sure the Makefile is properly configured.</li>
-<li>Ensure that you have a C compiler installed on your system, such as GCC.</li>
-<li>Make sure that you have cloned the repository and compiled the program before trying to run it.</li>
-<li>Check the provided code for any compilation errors or warnings.</li>
+<li>Verify that every prerequisite has been correctly loaded.</li>
+<li>Verify that you are in the right directory and that the repository has been properly cloned.</li>
+<li>Verify that the Makefile is set correctly.</li>
+<li>Ensure that a C compiler, such as GCC, is loaded on your system.</li>
+<li>Before attempting to execute the program, make sure you have cloned the repository and completed the compilation process.</li>
+<li>Look for compilation errors or warnings in the supplied code.</li>
 </ol>
 <p>If you still have issues, please create an issue on the Github repository, and we will try to help you as soon as possible.</p>
 <h1><a class="anchor" id="autotoc_md7"></a>
