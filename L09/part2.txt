@@ -1,0 +1,18 @@
+1. $2+2=4$ (sum of two numbers)
+2. \begin{equation}
+    ax^2 + bx + c = 0 (quadratic equation in Latex format)
+    end{equation}
+    \begin{equation}
+    x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} (quaration formula in Latex format)
+    \end{equation}
+3. \begin{equation}
+   \int u \, dv = uv - \int v \, du (integration by part in Latex format)
+   \end{equation}
+4. \begin{equation}
+    F(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} \, dx (fourier format inLatex format)
+    \end{equation}  
+5.  \begin{align*}
+    &(1) \quad P \to Q \\
+    &(2) \quad P \\             (modus ponens in Latex format)
+    &\therefore \quad Q
+    \end{align*}
