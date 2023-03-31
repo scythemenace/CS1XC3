@@ -13,3 +13,6 @@
 [submodule "L08/CS1XC3_L08_P3"]
 	path = L08/CS1XC3_L08_P3
 	url = git@github.com:scythemenace/CS1XC3_L08_P3.git
+[submodule "L09/Activity_4"]
+	path = L09/Activity_4
+	url = git@github.com:scythemenace/Activity_4.git
