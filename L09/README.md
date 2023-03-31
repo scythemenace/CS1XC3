@@ -1,23 +1,23 @@
-# 📚 Student-Course Management System (Lab 9)
+# Student-Course Management System (Lab 9)
 
-* 📅 Date: 2023-03-30
-* ✍ Author: Ankur Pandey
+* Date: 2023-03-30
+* Author: Ankur Pandey
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [🎯 Description](#description)
-- [🛠️ Installation Instructions](#installation-instructions)
-- [⚙️ Configuration Instructions](#configuration-instructions)
-- [🚀 Operating Instructions](#operating-instructions)
-- [🛠️ Troubleshootin](#troubleshooting)
-- [📜 Changelog](#changelog)
+- [Description](#description)
+- [Installation Instructions](#installation-instructions)
+- [Configuration Instructions](#configuration-instructions)
+- [Operating Instructions](#operating-instructions)
+- [Troubleshootin](#troubleshooting)
+- [Changelog](#changelog)
 
-## 🎯 Description
+## Description
 
 
 This software package is designed for CS1XC3 Lab09, aiming to provide users with a set of tools and functionalities related to Markdown, LaTeX, and Makefile management. The package demonstrates the usage of these tools for effective documentation and software management.
 
-## 🛠️ Installation Instructions
+## Installation Instructions
 
 To install the software package, follow these steps:
 
@@ -40,7 +40,7 @@ To configure the software, ensure that you have the following prerequisites inst
 - Doxygen
 - Git
 
-## 🚀 Operating Instructions
+## Operating Instructions
 
 1. Follow the installation and configuration instructions.
 2. Run the Makefile to compile files, create directories, and generate documentation using Doxygen: `make Doxyfile`
@@ -54,7 +54,7 @@ To configure the software, ensure that you have the following prerequisites inst
 10. The program will automatically generate a course named "Basics of Mathematics" (MATH101) and enroll 20 random students in the course.
 11. The program will then print the course information, followed by the top student and the list of passing students.
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 If you encounter issues during the installation or operation of the software, please check the following:
 
@@ -67,7 +67,7 @@ If you encounter issues during the installation or operation of the software, pl
 
 If you still have issues, please create an issue on the Github repository, and we will try to help you as soon as possible.
 
-## 📜 Changelog
+## Changelog
 
 ### 2023-03-28
 

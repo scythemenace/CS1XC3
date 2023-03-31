@@ -1,0 +1,10 @@
+<map id="src/main.c" name="src/main.c">
+<area shape="rect" id="node1" title="Main program file for the student&#45;course program." alt="" coords="183,5,272,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,80,76,107"/>
+<area shape="rect" id="node3" title=" " alt="" coords="101,80,167,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="192,80,263,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="287,80,351,107"/>
+<area shape="rect" id="node6" href="$course_8h.html" title="Header file for the Course struct and associated functions." alt="" coords="375,80,453,107"/>
+<area shape="rect" id="node7" href="$student_8h.html" title="Header file for the Student struct and associated functions." alt="" coords="319,155,402,181"/>
+<area shape="rect" id="node8" title=" " alt="" coords="426,155,509,181"/>
+</map>
