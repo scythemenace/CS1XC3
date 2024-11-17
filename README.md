@@ -29,8 +29,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Document all discovered commands and their usage.
   - Create a map of the game area using Graphviz.
 
-[Learn more](#lab-1)
-
 ---
 
 ### Lab 2: The Unix Filesystem
@@ -41,8 +39,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Understand the purpose of common directories like `/bin`, `/home`, and `/boot`.
   - Explore hidden files and environment variables.
 
-[Learn more](#lab-2)
-
 ---
 
 ### Lab 3: Branches, Merging, and Conflicts in Git
@@ -52,8 +48,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Fix and merge conflicting branches for a chess program.
   - Ensure the program meets specific functional requirements.
 
-[Learn more](#lab-3)
-
 ---
 
 ### Lab 4: Shell Scripting
@@ -62,8 +56,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
 - **Activities**:
   - Write scripts to check file existence, create backups, and process command-line arguments.
   - Dynamically handle variable input for script operations.
-
-[Learn more](#lab-4)
 
 ---
 
@@ -75,8 +67,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Estimate memory usage using GNU `time`.
   - Compare algorithm efficiency with profiling tools.
 
-[Learn more](#lab-5)
-
 ---
 
 ### Lab 6: Environment Variables and Libraries
@@ -86,8 +76,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Explore environment variables like `$PATH` and `$HOME`.
   - Create and use static and dynamic libraries with GCC.
   - Modify Bash startup scripts for customization.
-
-[Learn more](#lab-6)
 
 ---
 
@@ -99,8 +87,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Create a Makefile for automatic compilation.
   - Perform automated testing with provided datasets.
 
-[Learn more](#lab-7)
-
 ---
 
 ### Lab 8: Continuous Integration
@@ -110,8 +96,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Configure CI workflows for C projects using Makefiles.
   - Write YAML configuration files for GitHub Actions.
   - Explore Dockerfile basics.
-
-[Learn more](#lab-8)
 
 ---
 
@@ -123,8 +107,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Use Doxygen to document structs, functions, and file headers.
   - Host documentation on GitHub Pages.
 
-[Learn more](#lab-9)
-
 ---
 
 ### Lab 10: Pipes, Filters, and Regular Expressions
@@ -134,8 +116,6 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
   - Solve tasks using glob patterns and pipes.
   - Use `sed` for find-and-replace operations.
   - Explore multiline matching with regular expressions.
-
-[Learn more](#lab-10)
 
 ---
 
