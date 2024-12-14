@@ -119,12 +119,7 @@ This repository contains a series of lab exercises designed for the COMPSCI 1XC3
 
 ---
 
-## Contributing
-Contributions are welcome! Feel free to submit issues or pull requests for corrections or improvements.
-
----
-
 ## License
-This repository is part of the COMPSCI 1XC3 coursework. Redistribution or use of this material outside the intended course context is prohibited.
+This repository is part of the COMPSCI 1XC3 coursework.
 
 ---
